@@ -1,0 +1,16 @@
+lilly ="python is good"
+print(lilly[5])
+print(lilly[:])
+print(len(lilly))
+print(lilly[0])
+print(lilly[::2])
+print(lilly[::47888])
+print(lilly[::-1])
+print(lilly.isspace())
+print(lilly.find("is"))
+print(lilly.endswith("good"))
+print(lilly.replace("good" , "nice"))
+print(lilly.lower())
+print(lilly.upper())
+print(lilly.capitalize())
+
